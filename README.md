@@ -1,1 +1,1 @@
-# PatikaSQL 1. ödev
+# PatikaSQL 
